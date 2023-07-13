@@ -16,7 +16,7 @@ https://jsadowski7.github.io/Pong-game-js/
 
 
 ## Mock-Up
-(![Pong-game-js](\Pong-game-js\images\pongGame.png))
+(![Pong-game-js](\images\pongGame.png))
 
 
 ## License
